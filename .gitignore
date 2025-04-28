@@ -1,0 +1,36 @@
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET temp folders
+**/App_Data/
+**/App_Start/
+**/App_Offline.htm
+**/App_Readme.htm
+
+# Rider/JetBrains (���� ������ ������������ �� � VS)
+.idea/
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+

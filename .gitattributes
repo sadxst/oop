@@ -1,0 +1,6 @@
+# Set line endings for text files
+* text=auto
+
+# Mark binary files
+*.exe binary
+*.dll binary
